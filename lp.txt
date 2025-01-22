@@ -19,7 +19,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://goodimg.io/images/2024/06/30/faviconkoi_new.png" />
   <link rel="canonical" href="https://komplexneupravyzahrad.sk/" />
-  <link rel="amphtml" href="https://kiko.avatar-amp.info/www.halchrono.com/" />
+  <link rel="amphtml" href="https://komplexneupravyzahrad.sk/amp.html" />
   <!-- start preload -->
   <link rel="preload" href="https://goodimg.io/images/2025/01/21/df42a84f49f08512daa291d46bd9ca00.jpg" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
